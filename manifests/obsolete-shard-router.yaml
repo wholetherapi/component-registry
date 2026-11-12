@@ -1,0 +1,7 @@
+id: obsolete-shard-router
+name: Obsolete Shard Router
+tier: integration
+owner: storage-platform
+status: retired
+version: 0.4.1
+summary: Retired router superseded by the quota broker.

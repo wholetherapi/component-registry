@@ -1,0 +1,7 @@
+id: fragment-indexer
+name: Fragment Indexer
+tier: experimental
+owner: data-platform
+status: active
+version: 0.9.4
+summary: Builds secondary indexes over fragment manifests.

@@ -1,0 +1,7 @@
+id: adaptive-cache
+name: Adaptive Cache
+tier: core
+owner: runtime-platform
+status: active
+version: 1.9.4
+summary: Re-shipped manifest for the existing adaptive cache.

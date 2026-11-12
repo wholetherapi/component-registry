@@ -1,0 +1,7 @@
+id: zone-writer
+name: Zone Writer
+tier: extension
+owner: edge-compute
+status: active
+version: 1.0.5
+summary: Zone-aware writer for edge replicas.

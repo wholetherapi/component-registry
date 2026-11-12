@@ -1,0 +1,7 @@
+id: blob-compactor
+name: Blob Compactor
+tier: core
+owner: storage-platform
+status: active
+version: 1.4.0
+summary: Rewrites small adjacent blobs into compacted extents.

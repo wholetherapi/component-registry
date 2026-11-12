@@ -1,0 +1,7 @@
+id: adaptive-cache-v2
+name: Adaptive Cache v2
+tier: extension
+owner: runtime-platform
+status: active
+version: 2.0.1
+summary: Second-generation cache with adaptive promotion thresholds.

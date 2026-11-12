@@ -1,0 +1,7 @@
+id: quota-broker
+name: Quota Broker
+tier: core
+owner: api-platform
+status: active
+version: 1.6.2
+summary: Arbitrates tenant quota leases across clusters.

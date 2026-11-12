@@ -1,0 +1,7 @@
+id: flush-coordinator
+name: Flush Coordinator
+tier: core
+owner: storage-platform
+status: active
+version: 2.7.1
+summary: Coordinates flush barriers across shard writers.

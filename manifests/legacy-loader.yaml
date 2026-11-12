@@ -1,0 +1,7 @@
+id: legacy-loader
+name: Legacy Loader
+tier: experimental
+owner: data-platform
+status: deprecated
+version: 0.8.2
+summary: Deprecated loader kept only for migration scripts.
