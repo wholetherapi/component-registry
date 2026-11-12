@@ -4,7 +4,7 @@ _214 components tracked._
 
 | id | name | tier | owner | version |
 | --- | --- | --- | --- | --- |
-| adaptive-cache | Adaptive Cache | integration | api-platform | 5.1.5 |
+| adaptive-cache | Adaptive Cache (legacy) | integration | api-platform | 5.1.5 |
 | adaptive-filter | Adaptive Filter | extension | observability | 2.4.15 |
 | anchor-cache | Anchor Cache | experimental | network-platform | 4.8.14 |
 | archive-engine | Archive Engine | extension | security-engineering | 2.1.14 |
